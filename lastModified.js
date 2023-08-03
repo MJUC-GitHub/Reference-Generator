@@ -1,4 +1,4 @@
-javascript: var lastModified = document.lastModified;
+javascript: const lastModified = document.lastModified;
 var formattedDate = new Date(lastModified).toLocaleString("ja-JP", {
   year: "numeric",
   month: "2-digit",
@@ -7,4 +7,10 @@ var formattedDate = new Date(lastModified).toLocaleString("ja-JP", {
   minute: "2-digit",
   second: "2-digit",
 });
-alert(formattedDate);
+var today = new Date();
+var result = ("URL: " + location.href + "\n" + "Title: " + document.title+"\n"+ "Last Modified: " + formattedDate);
+navigator.clipboard.writeText(result).then(
+  () => {
+    alert(result+"\n"+"Copied website info"+today);
+  },
+);
