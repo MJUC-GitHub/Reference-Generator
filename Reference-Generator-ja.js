@@ -8,7 +8,7 @@ var today = new Date().toLocaleDateString("ja-JP", {
   month: "2-digit",
   day: "2-digit",
 }).split("/").join("-");
-var result = ("[著者名]. "+ "“" + document.title + "”. " + "[Webサイトの名称]. "+ A + ". " + location.href + ", (参照 " + today + ").");
+var result = ("[著者名]. "+ "“" + document.title + "”. " + "[Webサイトの名称]. "+ formattedDate + ". " + location.href + ", (参照 " + today + ").");
 navigator.clipboard.writeText(result).then(
   () => {
     alert("参考文献をコピーしました");
