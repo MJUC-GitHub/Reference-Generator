@@ -8,7 +8,7 @@ var today = new Date().toLocaleDateString("ja-JP", {
   month: "2-digit",
   day: "2-digit",
 }).split("/").join("-");
-var result = ("[Author Name]. "+ "“" + document.title + "”. " + "[Website Name]. "+ A + ". " + location.href + ", (accessed " + today + ").");
+var result = ("[Author Name]. "+ "“" + document.title + "”. " + "[Website Name]. "+ formattedDate + ". " + location.href + ", (accessed " + today + ").");
 navigator.clipboard.writeText(result).then(
   () => {
     alert("Copied References");
