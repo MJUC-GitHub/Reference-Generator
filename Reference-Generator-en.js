@@ -11,6 +11,6 @@ var today = new Date().toLocaleDateString("ja-JP", {
 var result = ("[Author Name]. "+ "“" + document.title + "”. " + "[Website Name]. "+ formattedDate + ". " + location.href + ", (accessed " + today + ").");
 navigator.clipboard.writeText(result).then(
   () => {
-    alert("Copied References");
+    alert("Copied a Reference");
   },
 );
