@@ -1,9 +1,11 @@
 # Reference Generator
-http://inyo.nichigai.co.jp/
+
+**Bookmarklet that gets website information and generates references to it**
 
 ## Files
 
-| TH | TH |
+| File | Description |
 | ---- | ---- |
-| TD | TD |
-| TD | TD |
+| Reference-Generator-ja.js | Japanese version |
+| Reference-Generator-en.js | English version |
+| Website-Info-Generator.js | Version that just gets website information |
