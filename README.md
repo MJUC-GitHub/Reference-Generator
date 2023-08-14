@@ -1,6 +1,6 @@
 # Reference Generator
 
-**Bookmarklet that gets website information and generates references to it**
+Bookmarklet that gets website information and generates references to it
 
 ## Files
 
