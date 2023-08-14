@@ -3,5 +3,5 @@ http://inyo.nichigai.co.jp/
 
 ## Files
 
-| File              | Description                                                           |
-| あ | あ |
+| File | Description |
+| あ   |             |
