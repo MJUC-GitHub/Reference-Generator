@@ -1,7 +1,7 @@
 # Reference Generator
 
 ## Features
-- Bookmarklet that gets website information and generates references to it
+- Bookmarklet that gets website information and generates a reference to it
 - Generated references are automatically copied to the clipboard
 - There is also version that just gets website information
 
