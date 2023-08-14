@@ -10,7 +10,7 @@
 | ---- | ---- |
 | [SIST02-ja.js](https://github.com/otnkmk8d/Reference-Generator/blob/main/SIST02-ja.js) | SIST02-Japanese |
 | [SIST02-en.js](https://github.com/otnkmk8d/Reference-Generator/blob/main/SIST02-en.js) | SIST02-English |
-| [Get-Website-Information.js](https://github.com/otnkmk8d/Reference-Generator/blob/main/Get-Website-Information.js) | Gets website information |
+| [Get-Website-Info.js](https://github.com/otnkmk8d/Reference-Generator/blob/main/Get-Website-Info.js) | Gets website information |
 
 ## How to use
 **1.** Access the file
