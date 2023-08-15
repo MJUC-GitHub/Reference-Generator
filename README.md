@@ -13,12 +13,12 @@
 | [Get-Website-Info.js](https://github.com/otnkmk8d/Reference-Generator/blob/main/Get-Website-Info.js) | Gets website information |
 
 ## How to use
-**1.** Access the file
+**1.** Access the file and copy all javascript
 
-**2.** Copy all javascript
+**2.** Open the website, **type "javascript:"** in the address bar, then paste the copied javascript and run it
 
-**3.** Open the website, paste the copied javascript into the address bar and run it
+   You can also bookmark the javascript and run it.
 
-**4.** Generated reference and automatically copied to the clipboard
+**3.** Generated reference and automatically copied to the clipboard
 
-**5.** Paste into your doc, etc. and add the author's name and website name
+**4.** Paste into your document, etc. and add the author name and website name
