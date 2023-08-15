@@ -16,9 +16,11 @@
 **1.** Access the file and copy all javascript
 
 **2.** Open the website, **type "javascript:"** in the address bar, then paste the copied javascript **("javascript: const formattedDate ...")** and run it
+
 ![image](https://github.com/otnkmk8d/Reference-Generator/assets/117816972/8647e7ff-9332-4351-98f5-ef3403588fa1)
 
 You can also bookmark the javascript and run it. This is useful if you want to run it many times.
+
 ![image](https://github.com/otnkmk8d/Reference-Generator/assets/117816972/5abd7832-f48a-4c84-b0e0-8f28531290d6)
 
 **3.** Generated reference and automatically copied to the clipboard
