@@ -15,7 +15,9 @@
 ## How to use
 **1.** Access the file and copy all javascript
 
-**2.** Open the website, **type "javascript:"** in the address bar, then paste the copied javascript and run it (You can also bookmark the javascript and run it)
+**2.** Open the website, **type "javascript:"** in the address bar, then paste the copied javascript **("javascript: const formattedDate ...")** and run it
+
+You can also bookmark the javascript and run it. This is useful if you want to run it many times.
 
 **3.** Generated reference and automatically copied to the clipboard
 
