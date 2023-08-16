@@ -1,6 +1,9 @@
 # Reference Generator
 
+[English version](https://github.com/otnkmk8d/Reference-Generator/blob/main/README-en.md)
+
 ## 概要
+
 - Webサイトの情報を取得し、SIST02形式の参考文献を生成するブックマークレット
 - 生成した参考文献は自動的にクリップボードにコピーされる
 
