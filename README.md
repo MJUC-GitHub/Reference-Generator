@@ -4,7 +4,7 @@
 - Webサイトの情報を取得し、SIST02形式の参考文献を生成するブックマークレット
 - 生成した参考文献は自動的にクリップボードにコピーされる
 
-## ファイル内容
+## ブックマークレット一覧
 | ファイル | 説明 |
 | ---- | ---- |
 | [SIST02-ja.js](https://github.com/otnkmk8d/Reference-Generator/blob/main/SIST02-ja.js) | SIST02-日本語 |
