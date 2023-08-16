@@ -3,7 +3,6 @@
 ## Features
 - Bookmarklet gets website information and generates a reference in SIST02 (Japanese) style
 - Generated references are automatically copied to the clipboard
-- There is also version that just gets website information
 
 ## Files
 | File | Description |
