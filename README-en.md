@@ -1,5 +1,7 @@
 # Reference Generator
 
+[日本語版](https://github.com/otnkmk8d/Reference-Generator/blob/main/README.md)
+
 ## Features
 - Bookmarklet gets website information and generates a reference in SIST02 (Japanese) style
 - Generated references are automatically copied to the clipboard
