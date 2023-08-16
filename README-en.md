@@ -6,7 +6,7 @@
 - Bookmarklet gets website information and generates a reference in SIST02 (Japanese) style
 - Generated references are automatically copied to the clipboard
 
-##Bookmarklets
+## Bookmarklets
 | File | Description |
 | ---- | ---- |
 | [SIST02-ja.js](https://github.com/otnkmk8d/Reference-Generator/blob/main/SIST02-ja.js) | SIST02-Japanese |
