@@ -15,15 +15,15 @@
 | [Get-Website-Info.js](https://github.com/otnkmk8d/Reference-Generator/blob/main/Get-Website-Info.js) | Webサイトの情報を取得 |
 
 ## 使い方
-**1.** お好みのファイルにアクセスし、javascriptを全てコピー
+**1.** 上の表から好きなファイルにアクセスし、javascriptを全てコピー
 
-**2.** Webサイトを開き、リロード
+**2.** Webサイトを開き、**リロード**
 
-下の画像のように、アドレスバーに"javascript:"と入力し、コピーしたjavascriptを貼り付け、実行
+下の画像のように、アドレスバーに **"javascript:"** と入力し、コピーしたjavascriptを貼り付け、実行
 
 ![image](https://github.com/otnkmk8d/Reference-Generator/assets/117816972/8647e7ff-9332-4351-98f5-ef3403588fa1)
 
-ブックマークに登録すれば、何度も簡単に使用することができます
+ブックマークに登録すれば、簡単に何度も使用することができます
 
 ![image](https://github.com/otnkmk8d/Reference-Generator/assets/117816972/5abd7832-f48a-4c84-b0e0-8f28531290d6)
 
