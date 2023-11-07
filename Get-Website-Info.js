@@ -1,3 +1,4 @@
+javascript:
 const lastModified = document.lastModified;
 var formattedDate = new Date(lastModified)
   .toLocaleString("ja-JP", {

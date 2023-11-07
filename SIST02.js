@@ -1,3 +1,4 @@
+javascript:
 const formattedDate = new Date(document.lastModified)
   .toLocaleDateString("ja-JP", {
     year: "numeric",
