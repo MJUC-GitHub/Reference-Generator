@@ -11,7 +11,7 @@
 
 | File                                                                                                 | Description              |
 | ---------------------------------------------------------------------------------------------------- | ------------------------ |
-| [SIST02-ja.js](https://github.com/otnkmk8d/Reference-Generator/blob/main/SIST02.js)                  | SIST02-Japanese          |
+| [SIST02.js](https://github.com/otnkmk8d/Reference-Generator/blob/main/SIST02.js)                     | SIST02-Japanese          |
 | [SIST02-en.js](https://github.com/otnkmk8d/Reference-Generator/blob/main/SIST02-en.js)               | SIST02-English           |
 | [Get-Website-Info.js](https://github.com/otnkmk8d/Reference-Generator/blob/main/Get-Website-Info.js) | Gets website information |
 
